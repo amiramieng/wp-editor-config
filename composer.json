@@ -1,0 +1,20 @@
+{
+  "name": "author/project-name",
+  "description": "Description",
+  "version": "1.0.0",
+  "license": "GPL-2.0-or-later",
+  "authors": [{
+      "name": "Amir Rami",
+      "email": "a.rami@adaptech.me",
+      "homepage": "https://www.amirrami.com"
+  }],
+  "support": {
+    "issues": "https://github.com/christophherr/linter-sniffer-pretty-printer/issues"
+  },
+  "require-dev": {
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
+    "squizlabs/php_codesniffer": "^3.2.3",
+    "wp-coding-standards/wpcs": "^0.14.1",
+    "roave/security-advisories": "dev-master"
+  }
+}
