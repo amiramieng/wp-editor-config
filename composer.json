@@ -1,5 +1,5 @@
 {
-  "name": "author/project-name",
+  "name": "amiramieng/wp-editor-config",
   "description": "Description",
   "version": "1.0.0",
   "license": "GPL-2.0-or-later",
@@ -9,7 +9,7 @@
       "homepage": "https://www.amirrami.com"
   }],
   "support": {
-    "issues": "https://github.com/christophherr/linter-sniffer-pretty-printer/issues"
+    "issues": "https://github.com/amiramieng/wp-editor-config/issues"
   },
   "require-dev": {
     "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
